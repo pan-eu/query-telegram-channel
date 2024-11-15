@@ -1,4 +1,4 @@
-# provides python functions for operations on Telegram channels and csv files
+# python functions for operations on Telegram channels and csv files
 telegram modules - 2019 Telgram API base. Current API implementation may be different
 
 # Authenticates into telegram and fetch list of groups where you are part of, and extract member info
