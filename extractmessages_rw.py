@@ -55,9 +55,7 @@ for chat in chats:
 
 target_group= input("Enter a group/channel handle to scrape, ex: @group_name or https://t.me/group_name: ")
 # target_group=groups[int(g_index)]
-# target_group='@HinduEcosystem'
-# target_group='@kattar_hindutva_group'
-# target_group='@progressive_ecosystem'
+# target_group='@HEcosystem'
 
 # create export file name but first check if input is a link to a channel/group
 today = date.today()
