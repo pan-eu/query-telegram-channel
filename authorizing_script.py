@@ -15,9 +15,9 @@ api_hash = str(api_hash)
 phone = config['Telegram']['phone']
 
 # username = config['Telegram']['username']
-# api_id = 2034117
-# api_hash = 'e2706a994f64f08f40ff2b3696c9a186'
-# phone = '+4915144948963'
+# api_id = 556665
+# api_hash = 'eerd44554deerrdfddddffggggg'
+# phone = '+47898767767'
 
 client = TelegramClient(phone, api_id, api_hash)
 client.connect()
